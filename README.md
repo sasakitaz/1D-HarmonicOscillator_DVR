@@ -5,8 +5,11 @@ This program solve Schrodinger equation on 1-dimensional Morse oscillator by har
 
 ## Usage
 You can change parameters at the top of the program and solve Schrodinger equation on 1-dimensional Morse oscillator.
+
 The program compares numerical results on a grid basis, a harmonic oscillator basis, and analytical solutions.
-parameter
+
+parameters
+
 1. n0: matrix size
 2. m: mass (a.m.u.)
 3. kzz: Morse potential parameter
